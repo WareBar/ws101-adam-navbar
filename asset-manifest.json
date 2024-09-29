@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-adam-navbar/static/css/main.860d8c00.css",
+    "main.js": "/ws101-adam-navbar/static/js/main.fa8e7b7c.js",
+    "index.html": "/ws101-adam-navbar/index.html",
+    "main.860d8c00.css.map": "/ws101-adam-navbar/static/css/main.860d8c00.css.map",
+    "main.fa8e7b7c.js.map": "/ws101-adam-navbar/static/js/main.fa8e7b7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.860d8c00.css",
+    "static/js/main.fa8e7b7c.js"
+  ]
+}
